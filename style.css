@@ -1,0 +1,46 @@
+.list-unstyled{
+    margin-right: -200px;
+    margin-left: 150px;
+}
+.follow-class{
+    margin-right: -200px;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+.Contact-class{
+* margin-right: auto;
+    margin-left: 150px; 
+    margin-top: 40px;
+}
+.divider{
+   /* margin-right: -200px;
+    margin-left: 150px; */
+    
+}
+
+.Home{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+}
+.owl-item active{
+    background-color: black;
+}
+
+.nav-item active a:link,
+.nav-item active a:visited{
+    background-color: black;
+}
+
+.instalpha:link,
+.instalpha:visited{
+    
+}
+.instalpha:hover,
+.instalpha:active{
+    color: black;
+}
+
+.form-row{
+    margin-right: auto;
+    margin-left: auto;
+}
+

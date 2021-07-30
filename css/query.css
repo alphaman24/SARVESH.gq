@@ -1,0 +1,125 @@
+.vg-contact-form{
+    margin-left: -300px;
+    margin-top:-50px;
+}
+
+
+@media only screen and (max-width:1200px){
+    .vg-contact-form{
+        margin-left: -280px;
+        margin-top:-50px;
+        margin-right: 200;
+    }
+       
+}
+
+@media only screen and (max-width:1023px){
+    
+     .vg-contact-form{
+        margin-left: -280px;
+        margin-top:-50px;
+        margin-right: 200;
+    }
+    
+}
+
+@media only screen and (max-width:992px){
+    .vg-contact-form{
+        margin-left: 280px;
+    }
+    
+}
+
+@media only screen and (max-width:817px){
+     .vg-contact-form{
+       margin-left: 200px;
+    }
+    
+}
+
+@media only screen and (max-width:768px){
+    
+    .vg-contact-form{
+       margin-left: 200px;
+    }
+    
+    
+    
+}
+
+@media only screen and (max-width:650px){
+    
+     .vg-contact-form{
+      margin-left: 100px;
+    }
+}
+
+@media only screen and (max-width:525px){
+     .vg-contact-form{
+      margin-left: 20px;
+    }
+    
+}
+
+@media only screen and (max-width:480px){
+    
+    .vg-contact-form{
+       margin-left: 20px;
+        margin-right: -200px;
+    }
+    
+    
+}
+
+@media only screen and (max-width:444px){
+    
+     .vg-contact-form{
+      width: 350px;:
+    }
+    
+}
+
+@media only screen and (max-width:397px){
+    
+      .vg-contact-form{
+      width: 320px;
+    }
+    
+}
+
+@media only screen and (max-width:366px){
+    
+       .vg-contact-form{
+      width: 280px;
+    }
+    
+}
+
+@media only screen and (max-width:327px){
+      .vg-contact-form{
+      width: 240px;
+         }
+    
+}
+
+@media only screen and (max-width:289px){
+    
+    .vg-contact-form{
+      width: 210px;
+       margin-left: -10px;  }
+    
+}
+
+@media only screen and (max-width:289px){
+     .vg-contact-form{
+      width: 210px;
+       margin-left: -10px;  }
+    
+}
+
+@media only screen and (max-width:228px){
+      .vg-contact-form{
+      width: 180px;
+       margin-left: -10px;  }
+    
+}
